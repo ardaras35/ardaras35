@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on **Auto Service Website**
 
 - 🌱 I’m currently learning **Next.JS**
 
